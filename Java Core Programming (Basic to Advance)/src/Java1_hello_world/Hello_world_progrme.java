@@ -1,5 +1,5 @@
 
-package hello_world_programe_1;
+package Java1_hello_world;
 
 /**
  *

@@ -1,4 +1,4 @@
-package JavaEscapeSequence_2;
+package Java2_EscapeSequence;
 
 public class escape_seq_biodata_2 {
     public static void main(String[] args) {
