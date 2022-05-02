@@ -1,5 +1,5 @@
 
-package hello_world_progrme;
+package hello_world_programe_1;
 
 /**
  *
@@ -9,10 +9,12 @@ public class Hello_world_progrme {
 
    
     public static void main(String[] args) {
-        // TODO HELLO WORLD PROGRAMME HARE
-String word= "Hello World is my country";
 
+        // use String Variable hare
+String word= "Hello World is my country";
+// use only print statement 
 System.out.println("hello world. ");
+//call word  variable in print statement
 System.out.println(word );
 
 
