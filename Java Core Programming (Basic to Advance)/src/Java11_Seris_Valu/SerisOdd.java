@@ -1,4 +1,4 @@
-package Java10_Seris_Valu;
+package Java11_Seris_Valu;
 import java.util.Scanner;
 
 public class SerisOdd {
