@@ -1,4 +1,4 @@
-package Java10_Seris_Valu;
+package Java10_Seris_Program;
 
 import java.util.Scanner;
 
