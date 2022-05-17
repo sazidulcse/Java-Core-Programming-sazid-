@@ -15,6 +15,7 @@ public class Series5_SumOfDigit {
           
       }
       System.out.println(sum);
+      
      
   }  
 }
